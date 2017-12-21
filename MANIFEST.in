@@ -1,0 +1,2 @@
+graft opal_client/templates
+graft opal_client/static
